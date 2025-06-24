@@ -2,9 +2,9 @@
 
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME : ASHUTOSH KUMAR YADAV
+NAME : ABHISHEK YADAV
 
-INTERN ID : CT04DF507
+INTERN ID : CT04DF1745
 
 DOMAIN : C PROGRAMMING
 
@@ -52,3 +52,4 @@ Data compression is a crucial part of digital technology. It helps manage large 
 Whether you're downloading an app, watching a YouTube video, or sending an email, data compression is silently working in the background to make it all faster and more efficient.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/34a5facc-f6d8-481e-9622-8e58814fbbf3)
